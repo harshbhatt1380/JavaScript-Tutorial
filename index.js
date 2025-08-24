@@ -4,18 +4,37 @@
 //document.getElementById("h1").textContent="Let's learn JavaScript shall we?";
 //document.getElementById("p1").textContent="I am learning JavaScript";
 
-let firstname = "Harsh";
+//let firstname = "Harsh";
 
-let x = 25; 
-let age = 2025-2002;
-let gpa = 7.2;
-let email = "janmijaybhatt222@gmail.com";
-console.log(x*5);
-console.log(`Hi Harsh you are ${age} years old`)
-console.log(`Your marks at college are : ${gpa}/10.0`)
+//let x = 25; 
+//let age = 2025-2002;
+//let gpa = 7.2;
+//let email = "janmijaybhatt222@gmail.com";
+//console.log(x*5);
+//console.log(`Hi Harsh you are ${age} years old`)
+//console.log(`Your marks at college are : ${gpa}/10.0`)
 //Seeing data type of age 
-console.log(typeof age);
-console.log(typeof gpa);
-console.log(typeof firstname);
-console.log(email)
+//console.log(typeof age);
+//console.log(typeof gpa);
+//console.log(typeof firstname);
+//console.log(email)
 //This is my comment
+//console.table([firstname,age,gpa,email]);
+
+//let x = 0;
+
+//console.log(Boolean(x));
+//console.log("33"-10);
+//console.log("15"+7);
+//console.log("ha"*2);
+
+
+// 1 st num
+// Op
+// 2nd Num
+// answer
+//want to continue? yes -> // enter op  // enter second number
+//no-> end
+
+console.log("Welcome to my calculator");
+let fnum = 
